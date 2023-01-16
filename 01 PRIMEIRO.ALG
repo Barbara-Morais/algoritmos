@@ -2,9 +2,9 @@ Algoritmo "primeiro"
 Var
 msg: caractere
 Inicio
-Escreval ("Olá, Mundo!")
-Escreva ("Me livrei da maldição!")
-
-msg <- "Olá, Mundo!"
+Escreval ("OlÃ¡, Mundo!")
+Escreva ("Me livrei da maldiÃ§Ã£o!")
+*ou
+msg <- "OlÃ¡, Mundo!"
 Escreval (msg)
 Fimalgoritmo
