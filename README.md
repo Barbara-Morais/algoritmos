@@ -11,3 +11,6 @@ Aula 02:
 Aula 03:
 
 ![Aula 03](https://user-images.githubusercontent.com/87949514/212763625-fd4c2c13-ee3d-4c8c-a147-728e56c0e6e7.jpg)
+
+![image](https://user-images.githubusercontent.com/87949514/212790608-567aaf76-7a7f-4460-b16d-942cfaf199c0.png)
+
