@@ -19,7 +19,7 @@ Sistema Completo
 Do ponto de vista computacional um algoritmo será implementado em uma linguagem de computação gerando um programa, o qual visa instruir um computador (uma máquina) a executar determinada tarefa.  Devemos ter consciência que um computador não é dotado da capacidade de tomar decisões com base em premissas. Portanto, não podemos instruir um computador com sentenças dúbias.
 
 
-#Exercícios realizados no Curso de Algoritmos do Curso em Vídeo
+***Exercícios realizados no Curso de Algoritmos do Curso em Vídeo***
 
 
 Aula 02: 
